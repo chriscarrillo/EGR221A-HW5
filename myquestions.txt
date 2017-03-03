@@ -1,0 +1,26 @@
+Q:
+Does it have keys?
+Q:
+Is it a stringed instrument?
+A:
+cello
+A:
+piano
+Q:
+Is it a woodwind instrument?
+Q:
+Does it have a reed?
+A:
+saxophone
+A:
+flute
+Q:
+Is it a brass instrument?
+Q:
+Do you have to pull something to change the pitch?
+A:
+trombone
+A:
+trumpet
+A:
+guitar
